@@ -2,6 +2,8 @@
 
 - This is a readme file in markdown format (readme.md) which should be in your github/gitlab repository. later you can add your project files into the repository.
 
+- Fork this project and edit this file for your blog
+
 - This is a template for writing the sensor interfacing blog at Shunyainterfaces Workshop 
 
 - You can rearrange or creatively add more information so that the reader will get the most out of it.
@@ -103,6 +105,11 @@ void main(){
 }
 
 ```
+
+Source Link : [Instructable Blog link](https://www.instructables.com/id/Interface-ADXL335-Sensor-on-Raspberry-Pi-4B-in-4-S/)
+
+Online editor : for easy online editing-[Editor.md ](https://pandao.github.io/editor.md/en.html)
+
 
 
  
