@@ -50,9 +50,9 @@
 # Procedure 
 
 ## Step 1: Install Shunya os on Raspberry pi 4
-1.Download Shunya OS from the [official release site](http://shunyaos.org/beta-release/)
-2.Shunya OS guys have a decent tutorial on [Flashing Shunya OS on Raspberry Pi 4.](http://docs.shunyaos.org/boards/Raspberry-Pi-4.ht)
-3.Insert micro SD card into Raspberry Pi 4
+1. Download Shunya OS from the [official release site](http://shunyaos.org/beta-release/)
+2. Shunya OS guys have a decent tutorial on [Flashing Shunya OS on Raspberry Pi 4.](http://docs.shunyaos.org/boards/Raspberry-Pi-4.ht)
+3. Insert micro SD card into Raspberry Pi 4
 4. 
 
 
