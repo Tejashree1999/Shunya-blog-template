@@ -6,13 +6,20 @@
 
 - Fork this project and edit this file for your blog
 
-- This is a template for writing the sensor interfacing blog at Shunyainterfaces Workshop 
+- Add your images in the `images` folder of this repository . 
+  >  `![](images/imagename.jpg)`
 
-- You can creatively add more information so that the reader will get the most out of it.
+- You can [creatively ](https://pandao.github.io/editor.md/en.html)
+ add more information so that the reader will get the most out of it.
+
+- remove all the instructions before posting the blog
 
 
 
 # Interfacing 'Sensor Name' with 'Board Name' using Shunyainterfaces
+
+
+![](images/rpi4.jpg)
 
 >Add the image of the board or the your group working on shunya interfaces
 
@@ -31,7 +38,7 @@
 
 
 # Connections :
-
+![](images/connection.jpg)
 > Add a photo of your fully connected circuit.
 
 - connection between raspberrypi and pcf8591 
