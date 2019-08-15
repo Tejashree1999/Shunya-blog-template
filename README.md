@@ -25,9 +25,9 @@
 
 ## Introduction
 
- we are going to interface an ADXL335 (accelerometer) sensor on Raspberry Pi 4 with Shunya O/S
+ We are going to interface an ADXL335 (accelerometer) sensor on Raspberry Pi 4 with Shunya O/S
 
-
+> Add the description of your project and is applications
 
 
 # Materials required :
@@ -59,6 +59,7 @@
 | Ain2    | <---->  | Y |
 | Ain3     | <---->  | Z |
 
+> you can create tables using this syntax
 
 
 # Procedure 
@@ -121,14 +122,10 @@ void main(){
 
 Check out this cool new library for creating your own iot projects - [Shunyainterfaces](https://github.com/shunyaos/Shunya-Interfaces)
 
+Checkout this blog : [Interface ADXL335 Sensor on Raspberry Pi 4B in 4 Steps](https://www.instructables.com/id/Interface-ADXL335-Sensor-on-Raspberry-Pi-4B-in-4-S/)
+
+
 [@ShunyaOS](http://shunyaos.org/) || [@iotiot.in](http://iotiot.in/)
 
 
-
 #
-
-Source Link : [Instructable Blog link](https://www.instructables.com/id/Interface-ADXL335-Sensor-on-Raspberry-Pi-4B-in-4-S/)
-
-Online editor : for easy online editing-[Editor.md ](https://pandao.github.io/editor.md/en.html)
-
-
