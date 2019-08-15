@@ -8,11 +8,13 @@
 
 - This is a template for writing the sensor interfacing blog at Shunyainterfaces Workshop 
 
-- You can rearrange or creatively add more information so that the reader will get the most out of it.
+- You can creatively add more information so that the reader will get the most out of it.
 
 
 
 # Interfacing 'Sensor Name' with 'Board Name' using Shunyainterfaces
+
+>Add the image of the board or the your group working on shunya interfaces
 
 ## Introduction
 
@@ -25,11 +27,12 @@
 - Raspberry Pi 4B
 - Raspberry Pi 4B compliant power supply
 - 8GB or bigger micro SD card
--
-- 
+
 
 
 # Connections :
+
+> Add a photo of your fully connected circuit.
 
 - connection between raspberrypi and pcf8591 
 
@@ -57,7 +60,7 @@
 1. Download Shunya OS from the [official release site](http://shunyaos.org/beta-release/)
 2. Shunya OS guys have a decent tutorial on [Flashing Shunya OS on Raspberry Pi 4.](http://docs.shunyaos.org/boards/Raspberry-Pi-4.ht)
 3. Insert micro SD card into Raspberry Pi 4
-4. 
+
 
 
 ## Step 2: Install Shunya Interfaces
@@ -70,7 +73,7 @@
  $ sudo apt install shunya-interfaces
 ```
 
-
+> Add more Steps as per the project 
 
 
 # Code :
@@ -107,11 +110,18 @@ void main(){
 }
 
 ```
+# Credits :
+
+Check out this cool new library for creating your own iot projects - [Shunyainterfaces](https://github.com/shunyaos/Shunya-Interfaces)
+
+[@ShunyaOS](http://shunyaos.org/) || [@iotiot.in](http://iotiot.in/)
+
+
+
+#
 
 Source Link : [Instructable Blog link](https://www.instructables.com/id/Interface-ADXL335-Sensor-on-Raspberry-Pi-4B-in-4-S/)
 
 Online editor : for easy online editing-[Editor.md ](https://pandao.github.io/editor.md/en.html)
 
 
-
- 
